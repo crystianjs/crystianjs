@@ -1,14 +1,10 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                       CRYSTIAN JESUS                          -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:171117,100:FF3B00&text=Crystian%20Jesus&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20Dados%20%E2%80%A2%20IA&descAlignY=60&descSize=18&animation=twinkling" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&duration=3200&pause=900&color=FF3B00&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full-Stack+%26+Dados;L%C3%B3gica+%2B+Boas+Pr%C3%A1ticas+%2B+IA;Next.js+%7C+TypeScript+%7C+PostgreSQL;Supabase+%7C+Automa%C3%A7%C3%A3o+%7C+APIs;Transformando+regras+de+neg%C3%B3cio+em+c%C3%B3digo" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&duration=3200&pause=900&color=FF3B00&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full-Stack+%26+Dados;L%C3%B3gica+%2B+Boas+Pr%C3%A1ticas+%2B+IA;Supabase+%7C+PostgreSQL+%7C+Automa%C3%A7%C3%A3o;Transformando+regras+de+neg%C3%B3cio+em+c%C3%B3digo" alt="Typing Animation" />
 
 <br>
 
@@ -32,7 +28,7 @@ Sou **Desenvolvedor Full-Stack, Automação e Dados**, atuando no setor de saúd
 
 Gosto de entender primeiro **a regra de negócio e o problema que precisa ser resolvido** e, a partir disso, transformar a necessidade em uma solução organizada, previsível e escalável.
 
-Meu foco está em construir aplicações que unam **lógica, dados, automação e boas práticas de desenvolvimento**.
+Meu foco está em construir aplicações que unem **lógica, dados, automação e boas práticas de desenvolvimento**.
 
 Atualmente, meu principal foco está em:
 
@@ -68,7 +64,7 @@ Também possuo formação em **Análise e Desenvolvimento de Sistemas pela UniCe
 
 <br><br>
 
-### Ferramentas & Ambiente
+### Ferramentas & Cloud
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux&theme=dark" />
 
@@ -83,7 +79,6 @@ Também possuo formação em **Análise e Desenvolvimento de Sistemas pela UniCe
 </div>
 
 <table align="center">
-
 <tr>
 
 <td width="50%" valign="top">
@@ -92,125 +87,287 @@ Também possuo formação em **Análise e Desenvolvimento de Sistemas pela UniCe
 
 
 Next.js / React  ████████████████████  principal
-TypeScript       ███████████████████░  principal
+TypeScript       ███████████████████░  experiência
 Node.js          █████████████████░░░  experiência
-JavaScript       █████████████████░░░  experiência
-Python / IA      ████████████████░░░░  desenvolvimento
+Python / IA      ████████████████░░░░  Gemini & Claude
 Lógica & Clean   ████████████████████  boas práticas
+
 </td> <td width="50%" valign="top">
+
 🗄️ Dados & Backend
-PostgreSQL       ████████████████████  principal
-Supabase         ███████████████████░  principal
+
 SQL              ███████████████████░  experiência
+PostgreSQL       ███████████████████░  principal
+Supabase         █████████████████░░░  experiência
 MySQL            ███████████████░░░░░  experiência
-MongoDB          ██████████████░░░░░░  experiência
-APIs             █████████████████░░░  desenvolvimento
+MongoDB          █████████████░░░░░░░  experiência
+APIs             █████████████████░░░  experiência
+
 </td> </tr> </table>
+
+### 5. Ferramentas do dia a dia
+
 <div align="center">
-⚙ ferramentas que fazem parte do meu dia
-</div> <div align="center"> <img src="https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge&logo=next.js&logoColor=FF3B00"/> <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=FF3B00"/> <img src="https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=node.js&logoColor=FF3B00"/> <img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=FF3B00"/> <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF3B00"/> <img src="https://img.shields.io/badge/GitLab-0D0D0D?style=for-the-badge&logo=gitlab&logoColor=FF3B00"/> <img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=FF3B00"/> <img src="https://img.shields.io/badge/Supabase-0D0D0D?style=for-the-badge&logo=supabase&logoColor=FF3B00"/> <img src="https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=FF3B00"/> <img src="https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=FF3B00"/> </div>
-<div align="center">
-✧ projetos
 
-<sub>Projetos que representam minha jornada de desenvolvimento, estudo e aplicação prática.</sub>
-
-</div> <br> <table align="center"> <tr> <td width="50%" valign="top"> <h3 align="center">📚 UQuestões</h3> <div align="center"> <img src="https://img.shields.io/badge/Next.js-FF3B00?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-171117?style=flat-square&logo=typescript&logoColor=FF3B00"/> <img src="https://img.shields.io/badge/Supabase-171117?style=flat-square&logo=supabase&logoColor=FF3B00"/>
-
-<br><br>
-
-Plataforma desenvolvida para auxiliar na preparação para concursos públicos, permitindo registrar questões, acompanhar desempenho e analisar a evolução dos estudos.
-
-<br><br>
-
-<a href="https://portfolio-crystian.vercel.app"> <img src="https://img.shields.io/badge/VER%20PROJETO-FF3B00?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </div> </td> <td width="50%" valign="top"> <h3 align="center">⚙️ Sistema de Gestão de Atas</h3> <div align="center"> <img src="https://img.shields.io/badge/Next.js-FF3B00?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-171117?style=flat-square&logo=typescript&logoColor=FF3B00"/> <img src="https://img.shields.io/badge/Tailwind-171117?style=flat-square&logo=tailwindcss&logoColor=FF3B00"/>
-
-<br><br>
-
-Sistema web para transformar atas transcritas em tarefas organizadas, utilizando processamento de texto e gerenciamento visual através de Kanban.
-
-<br><br>
-
-<a href="https://github.com/crystianjs"> <img src="https://img.shields.io/badge/VER%20PROJETO-FF3B00?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> </td> </tr> </table>
-<div align="center">
-🔐 acesso para visitantes
-Teste o UQuestões sem precisar criar uma conta
-</div> <div align="center"> <img src="https://img.shields.io/badge/ACESSO%20DE%20TESTE-DISPONÍVEL%20PARA%20VISITANTES-FF3B00?style=for-the-badge"/>
-
-<br><br>
-
-Criei um usuário de demonstração para que recrutadores, avaliadores e visitantes possam acessar o sistema, navegar pelas funcionalidades e conhecer o projeto na prática.
-
-<br> <table align="center"> <tr> <td align="center">
-👤 Usuário
-teste@gmail.com
-</td> <td align="center">
-🔑 Senha
-teste123
-</td> </tr> </table> <br> <a href="https://portfolio-crystian.vercel.app"> <img src="https://img.shields.io/badge/ACESSAR%20O%20SISTEMA-FF3B00?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </div>
-<div align="center">
-⌁ sobre o UQuestões
-</div> <table align="center"> <tr> <td width="55%" valign="top">
-🎯 O problema
-
-O UQuestões nasceu da necessidade de transformar o processo de preparação para concursos em algo mais organizado e mensurável.
-
-A aplicação permite registrar blocos de questões, acompanhar acertos e erros, analisar o desempenho e visualizar a evolução dos estudos.
-
-⚙️ Principais funcionalidades
-📝 Registro de questões por matéria
-📊 Painel de desempenho
-📈 Indicadores de evolução
-🎯 Controle de acertos e erros
-🔎 Filtros por disciplina
-📚 Organização dos estudos
-🧠 Treinamento direcionado
-✍️ Módulo de redação
-🔐 Sistema de autenticação
-</td> <td width="45%" valign="top">
-🖥️ Arquitetura
-Frontend
-   ↓
-Next.js
-   ↓
-TypeScript
-   ↓
-Supabase
-   ↓
-PostgreSQL
-<br>
-💡 Conceito
-Regra de negócio
-       ↓
-Tratamento dos dados
-       ↓
-Interface
-       ↓
-Análise
-       ↓
-Evolução
-</td> </tr> </table>
-<div align="center">
-📸 preview do projeto
-<br> <img src="./assets/uquestoes-dashboard.png" width="90%" alt="Dashboard do UQuestões"/>
-
-<br><br>
-
-<sub>Dashboard principal da plataforma de estudos.</sub>
+## `⚙ ferramentas que fazem parte do meu dia`
 
 </div>
+
 <div align="center">
-♡ contribution garden
-<img src="https://raw.githubusercontent.com/crystianjs/crystianjs/output/github-contribution-grid-snake-dark.svg" alt="Snake animation das contribuições" width="95%" /> </div>
+
+<img src="https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge&logo=next.js&logoColor=FF3B00"/>
+<img src="https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=node.js&logoColor=FF3B00"/>
+<img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=FF3B00"/>
+<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF3B00"/>
+<img src="https://img.shields.io/badge/Supabase-0D0D0D?style=for-the-badge&logo=supabase&logoColor=FF3B00"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=FF3B00"/>
+<img src="https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=FF3B00"/>
+<img src="https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=FF3B00"/>
+
+</div>
+
+---
+
 <div align="center">
-⌁ vamos conversar?
-<br> <a href="https://github.com/crystianjs"> <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF3B00"/> </a>
+
+## `🎯 UPQUESTOES`
+
+### Plataforma de estudos para concursos públicos
+
+</div>
+
+<p align="center">
+  Plataforma desenvolvida para organização dos estudos, registro de questões,
+  acompanhamento de desempenho e treinamento de redação para concursos,
+  com foco no padrão de cobrança da <strong>VUNESP</strong>.
+</p>
+
+<br>
+
+<div align="center">
+
+<img src="./upquestoes-preview.jpg" alt="Preview da plataforma UPQUESTOES" width="90%"/>
+
+</div>
+
+<br>
+
+---
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+### 📚 O problema
+
+O **UPQUESTOES** nasceu da necessidade de transformar o processo de preparação para concursos em algo mais organizado e mensurável.
+
+A plataforma permite registrar questões, acompanhar acertos e erros e visualizar a evolução dos estudos.
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Principais funcionalidades
+
+- 📝 Registro de questões por matéria
+- 📊 Painel de desempenho
+- 🎯 Indicadores de evolução
+- 🔴 Controle de acertos e erros
+- 🔎 Filtros por disciplina
+- 🗂️ Organização dos estudos
+- ✍️ Treinamento de redação
+- ⏱️ Cronometragem de treinos
+- 🔐 Sistema de autenticação
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 🧠 Arquitetura & Tecnologias
+
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,react,tailwind,supabase,postgresql&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `🔐 acesso para visitantes`
+
+Criei um usuário de demonstração para que **recrutadores, avaliadores e visitantes**
+possam acessar o sistema, navegar pelas funcionalidades e conhecer o projeto na prática.
+
+<br>
+
+| 🔑 Acesso | Informação |
+|---|---|
+| 👤 Usuário | `teste@gmail.com` |
+| 🔐 Senha | `teste123` |
+
+<br>
+
+<a href="(https://upquestoes.vercel.app/)">
+<img src="https://img.shields.io/badge/🚀%20ACESSAR%20UPQUESTOES-FF3B00?style=for-the-badge&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## `✧ projetos`
+
+<sub>Alguns dos projetos que representam minha jornada de desenvolvimento.</sub>
+
+</div>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎯 UPQUESTOES</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-FF3B00?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=FF3B00"/>
+<img src="https://img.shields.io/badge/Supabase-0D0D0D?style=flat-square&logo=supabase&logoColor=FF3B00"/>
 
 <br><br>
 
-<sub>Full-Stack • Automação • Dados • IA • APIs • Cloud</sub>
+Plataforma de estudos voltada à preparação para concursos, com registro de questões, acompanhamento de desempenho, filtros por disciplina e treinamento de redação.
 
-</div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF3B00,50:171117,100:0d0d0d&section=footer" width="100%" />
+<br><br>
+
+<a href="COLE_AQUI_A_URL_DO_SEU_UPQUESTOES">
+<img src="https://img.shields.io/badge/VER%20PROJETO-FF3B00?style=for-the-badge&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">⚙️ Sistema Web de Gestão de Atas e Tarefas</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-FF3B00?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=FF3B00"/>
+
+<br><br>
+
+Sistema web para transformar atas transcritas em tarefas organizadas automaticamente, utilizando fluxo Kanban e atribuição de atividades por perfil.
+
+<br><br>
+
+<a href="COLE_AQUI_A_URL_DO_PROJETO">
+<img src="https://img.shields.io/badge/VER%20PROJETO-FF3B00?style=for-the-badge&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🗄️ Projetos com PostgreSQL & Supabase</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-FF3B00?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-0D0D0D?style=flat-square&logo=supabase&logoColor=FF3B00"/>
+
+<br><br>
+
+Projetos envolvendo modelagem de dados, consultas SQL, relacionamentos, regras de negócio, APIs e integração com aplicações web.
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 Automação & IA</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/IA-FF3B00?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-0D0D0D?style=flat-square&logo=githubactions&logoColor=FF3B00"/>
+
+<br><br>
+
+Aplicações e automações utilizando Inteligência Artificial para auxiliar na engenharia de código, tratamento de dados e implementação de regras de negócio.
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## `♡ contribution garden`
+
+<img src="https://raw.githubusercontent.com/crystianjs/crystianjs/output/github-contribution-grid-snake-orange.svg" alt="Contribution Garden do Crystian" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `⌁ vamos conversar?`
+
+<br>
+
+<a href="https://api.whatsapp.com/send/?phone=5515981149404&text&type=phone_number&app_absent=0">
+  <img src="https://img.shields.io/badge/WHATSAPP-FF3B00?style=for-the-badge&logo=whatsapp&logoColor=0D0D0D&labelColor=FF3B00" />
+</a><a href="https://www.linkedin.com/in/crystian-jesus-a66622219/">
+  <img src="https://img.shields.io/badge/LINKEDIN-FF3B00?style=for-the-badge&logo=linkedin&logoColor=0D0D0D&labelColor=FF3B00" />
+</a><a href="https://github.com/crystianjs">
+  <img src="https://img.shields.io/badge/GITHUB-FF3B00?style=for-the-badge&logo=github&logoColor=0D0D0D&labelColor=FF3B00" />
+</a>
+
+
+<br><br>
+
+<sub>
+Full-Stack • Automação • Dados • IA • APIs • Cloud
+</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF3B00,50:171117,100:0d0d0d&section=footer" width="100%" />
+
+<br>
 
 <sub>Feito com código, lógica, curiosidade e tecnologia. ⚡</sub>
 
-</div> ```
+</div>
