@@ -15,14 +15,12 @@
 </div>
 
 ---
-
+<br>
 <div align="center">
 
-### `✦ um pouco sobre mim ✦`
-
+### `🫅 UM POUCO SOBRE MIM 🫅`
+<br>
 </div>
-
-<img align="right" width="270" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0d0d0d&text=%3C%2F%3E&fontColor=FF3B00&fontSize=80&fontAlignY=55&stroke=FF3B00&strokeWidth=1" />
 
 Sou **Desenvolvedor Full-Stack, Automação e Dados**, atuando no setor de saúde na **Cerba Internacional / DMS Burnier**.
 
@@ -32,7 +30,7 @@ Meu foco está em construir aplicações que unem **lógica, dados, automação 
 
 Atualmente, meu principal foco está em:
 
-* ⚙️ Desenvolvimento de aplicações **Full-Stack**
+* 🟠 Desenvolvimento de aplicações **Full-Stack**
 * 🤖 Uso de **Inteligência Artificial** para engenharia de código
 * 🧠 Utilização de **Gemini e Claude** no processo de desenvolvimento
 * 🗄️ Manipulação de bancos relacionais com **PostgreSQL e Supabase**
@@ -47,10 +45,11 @@ Também possuo formação em **Análise e Desenvolvimento de Sistemas pela UniCe
 <br clear="right"/>
 
 ---
-
+<br><br>
 <div align="center">
 
-## `♡ TECNOLOGIAS`
+## 🥷 TECNOLOGIAS 
+<br><br>
 
 ### Linguagens & Desenvolvimento
 
@@ -71,11 +70,11 @@ Também possuo formação em **Análise e Desenvolvimento de Sistemas pela UniCe
 </div>
 
 ---
-
+<br><br>
 <div align="center">
 
 ## `⌁ MEU STACK`
-
+<br><br>
 </div>
 
 <table align="center">
@@ -127,10 +126,11 @@ APIs             █████████████████░░░  e
 </div>
 
 ---
-
+<br><br>
 <div align="center">
 
 ## `🎯 UPQUESTOES`
+<br><br>
 
 ### Plataforma de estudos para concursos públicos
 
@@ -197,7 +197,7 @@ A plataforma permite registrar questões, acompanhar acertos e erros e visualiza
 </div>
 
 ---
-
+<br><br>
 <div align="center">
 
 ## `🔐 acesso para visitantes`
@@ -221,10 +221,11 @@ possam acessar o sistema, navegar pelas funcionalidades e conhecer o projeto na 
 </div>
 
 ---
-
+<br><br>
 <div align="center">
 
 ## `✧ projetos`
+<br><br>
 
 <sub>Alguns dos projetos que representam minha jornada de desenvolvimento.</sub>
 
@@ -329,7 +330,7 @@ Aplicações e automações utilizando Inteligência Artificial para auxiliar na
 
 <div align="center">
 
-## `♡ contribution garden`
+## ` 🥷 contribution garden`
 
 <img
   src="https://raw.githubusercontent.com/crystianjs/crystianjs/output/github-contribution-grid-snake-orange.svg"
