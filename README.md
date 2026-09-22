@@ -17,9 +17,9 @@
 ---
 <br>
 <div align="center">
-
+  
 ### `🫅 UM POUCO SOBRE MIM 🫅`
-<br>
+<br><br>
 </div>
 
 Sou **Desenvolvedor Full-Stack, Automação e Dados**, atuando no setor de saúde na **Cerba Internacional / DMS Burnier**.
@@ -48,7 +48,7 @@ Também possuo formação em **Análise e Desenvolvimento de Sistemas pela UniCe
 <br><br>
 <div align="center">
 
-## 🥷 TECNOLOGIAS 
+### `🥷 TECNOLOGIAS` 
 <br><br>
 
 ### Linguagens & Desenvolvimento
@@ -70,11 +70,15 @@ Também possuo formação em **Análise e Desenvolvimento de Sistemas pela UniCe
 </div>
 
 ---
+
 <br><br>
+
 <div align="center">
 
-## `⌁ MEU STACK`
+### `⌁ MEU STACK`
+
 <br><br>
+
 </div>
 
 <table align="center">
@@ -84,32 +88,40 @@ Também possuo formação em **Análise e Desenvolvimento de Sistemas pela UniCe
 
 ### 🧡 Full-Stack & IA
 
-
+<pre>
 Next.js / React  ████████████████████  principal
 TypeScript       ███████████████████░  experiência
 Node.js          █████████████████░░░  experiência
-Python / IA      ████████████████░░░░  Gemini & Claude
+Python / IA      ████████████████░░░░  Gemini
 Lógica & Clean   ████████████████████  boas práticas
+</pre>
 
-</td> <td width="50%" valign="top">
+</td>
 
-🗄️ Dados & Backend
+<td width="50%" valign="top">
 
+### 🗄️ Dados & Backend
+
+<pre>
 SQL              ███████████████████░  experiência
 PostgreSQL       ███████████████████░  principal
 Supabase         █████████████████░░░  experiência
 MySQL            ███████████████░░░░░  experiência
 MongoDB          █████████████░░░░░░░  experiência
 APIs             █████████████████░░░  experiência
+</pre>
 
-</td> </tr> </table>
+</td>
 
-### 5. Ferramentas do dia a dia
+</tr>
+</table>
 
+---
+<br><br>
 <div align="center">
 
-## `⚙ ferramentas que fazem parte do meu dia`
-
+###  ⚙️ `ferramentas que fazem parte do meu dia`
+<br><br>
 </div>
 
 <div align="center">
@@ -129,7 +141,8 @@ APIs             █████████████████░░░  e
 <br><br>
 <div align="center">
 
-## `🎯 UPQUESTOES`
+### `🎯 UPQUESTOES`
+
 <br><br>
 
 ### Plataforma de estudos para concursos públicos
@@ -200,7 +213,8 @@ A plataforma permite registrar questões, acompanhar acertos e erros e visualiza
 <br><br>
 <div align="center">
 
-## `🔐 acesso para visitantes`
+### `🔐 acesso para visitantes`
+<br>
 
 Criei um usuário de demonstração para que **recrutadores, avaliadores e visitantes**
 possam acessar o sistema, navegar pelas funcionalidades e conhecer o projeto na prática.
@@ -224,7 +238,7 @@ possam acessar o sistema, navegar pelas funcionalidades e conhecer o projeto na 
 <br><br>
 <div align="center">
 
-## `✧ projetos`
+### `👨🏼‍💻 projetos`
 <br><br>
 
 <sub>Alguns dos projetos que representam minha jornada de desenvolvimento.</sub>
@@ -276,7 +290,7 @@ Sistema web para transformar atas transcritas em tarefas organizadas automaticam
 
 <br><br>
 
-<a href="COLE_AQUI_A_URL_DO_PROJETO">
+<a href="https://upquestoes.vercel.app/">
 <img src="https://img.shields.io/badge/VER%20PROJETO-FF3B00?style=for-the-badge&logoColor=white"/>
 </a>
 
@@ -327,11 +341,11 @@ Aplicações e automações utilizando Inteligência Artificial para auxiliar na
 </table>
 
 ---
-
+<br><br>
 <div align="center">
 
-## ` 🥷 contribution garden`
-
+### ` 🥷 contribution garden`
+<br><br>
 <img
   src="https://raw.githubusercontent.com/crystianjs/crystianjs/output/github-contribution-grid-snake-orange.svg"
   alt="Contribution Garden do Crystian"
@@ -340,11 +354,11 @@ Aplicações e automações utilizando Inteligência Artificial para auxiliar na
 </div>
 
 ---
-
+<br><br>
 <div align="center">
 
-## `⌁ vamos conversar?`
-
+### `⌁ vamos conversar?`
+<br>
 <br>
 
 <a href="https://api.whatsapp.com/send/?phone=5515981149404&text&type=phone_number&app_absent=0">
