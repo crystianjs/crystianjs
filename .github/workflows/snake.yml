@@ -1,4 +1,3 @@
-
 name: Generate Contribution Garden
 
 on:
@@ -11,25 +10,28 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
+    timeout-minutes: 5
 
     steps:
-      - name: Generate contribution snake
+      - name: Generate orange contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: crystianjs
           outputs: |
-            dist/github-contribution-grid-snake-orange.svg?color_snake=FF3B00&color_dots=#161B22,#3D1A12,#7A2A13,#C43B0A,#FF3B00
+            dist/github-contribution-grid-snake-orange.svg?color_snake=%23FF3B00&color_dots=%23161B22,%233D1A12,%237A2A13,%23C43B0A,%23FF3B00
 
-      - name: Push SVG to output branch
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
+          target_branch: output
           build_dir: dist
+          commit_message: "chore: update contribution garden"
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
