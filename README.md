@@ -228,7 +228,7 @@ possam acessar o sistema, navegar pelas funcionalidades e conhecer o projeto na 
 
 <br>
 
-<a href="(https://upquestoes.vercel.app/)">
+<a href="https://upquestoes.vercel.app">
 <img src="https://img.shields.io/badge/🚀%20ACESSAR%20UPQUESTOES-FF3B00?style=for-the-badge&logoColor=white"/>
 </a>
 
@@ -267,7 +267,7 @@ Plataforma de estudos voltada à preparação para concursos, com registro de qu
 
 <br><br>
 
-<a href="COLE_AQUI_A_URL_DO_SEU_UPQUESTOES">
+<a href="https://upquestoes.vercel.app">
 <img src="https://img.shields.io/badge/VER%20PROJETO-FF3B00?style=for-the-badge&logoColor=white"/>
 </a>
 
@@ -290,7 +290,7 @@ Sistema web para transformar atas transcritas em tarefas organizadas automaticam
 
 <br><br>
 
-<a href="https://upquestoes.vercel.app/">
+<a href="https://analiza-ata.vercel.app/login">
 <img src="https://img.shields.io/badge/VER%20PROJETO-FF3B00?style=for-the-badge&logoColor=white"/>
 </a>
 
