@@ -331,7 +331,10 @@ Aplicações e automações utilizando Inteligência Artificial para auxiliar na
 
 ## `♡ contribution garden`
 
-<img src="https://raw.githubusercontent.com/crystianjs/crystianjs/output/github-contribution-grid-snake-orange.svg" alt="Contribution Garden do Crystian" width="95%" />
+<img
+  src="https://raw.githubusercontent.com/crystianjs/crystianjs/output/github-contribution-grid-snake-orange.svg"
+  alt="Contribution Garden do Crystian"
+  width="95%"/>
 
 </div>
 
