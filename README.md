@@ -344,11 +344,15 @@ Aplicações e automações utilizando Inteligência Artificial para auxiliar na
 <br>
 
 <a href="https://api.whatsapp.com/send/?phone=5515981149404&text&type=phone_number&app_absent=0">
-  <img src="https://img.shields.io/badge/WHATSAPP-FF3B00?style=for-the-badge&logo=whatsapp&logoColor=0D0D0D&labelColor=FF3B00" />
-</a><a href="https://www.linkedin.com/in/crystian-jesus-a66622219/">
-  <img src="https://img.shields.io/badge/LINKEDIN-FF3B00?style=for-the-badge&logo=linkedin&logoColor=0D0D0D&labelColor=FF3B00" />
-</a><a href="https://github.com/crystianjs">
-  <img src="https://img.shields.io/badge/GITHUB-FF3B00?style=for-the-badge&logo=github&logoColor=0D0D0D&labelColor=FF3B00" />
+  <img src="https://img.shields.io/badge/WHATSAPP-FF3B00?style=for-the-badge&logo=whatsapp&logoColor=0D0D0D&labelColor=FF3B00"/>
+</a>
+
+<a href="https://www.linkedin.com/in/crystian-jesus-a66622219/">
+  <img src="https://img.shields.io/badge/LINKEDIN-FF3B00?style=for-the-badge&logo=linkedin&logoColor=0D0D0D&labelColor=FF3B00"/>
+</a>
+
+<a href="https://github.com/crystianjs">
+  <img src="https://img.shields.io/badge/GITHUB-FF3B00?style=for-the-badge&logo=github&logoColor=0D0D0D&labelColor=FF3B00"/>
 </a>
 
 
